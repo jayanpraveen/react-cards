@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CardComponent from "./Components/CardComponent";
+import CardComponent from "./Components/CardComponent.js";
 
 class App extends Component {
   state = {};
